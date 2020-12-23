@@ -1,6 +1,6 @@
 import itertools
 import numpy
-import time
+import time 
 
 # Parse Input
 f = open("Day 1/Input.txt", "r")
