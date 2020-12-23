@@ -40,7 +40,7 @@ def isValid2(value):
     if equalMatches == 1:
         return True
     else:
-        return False
+        return False 
     
     
 # Part 1
