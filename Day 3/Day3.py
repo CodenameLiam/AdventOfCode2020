@@ -1,5 +1,4 @@
 from functools import reduce
-import numpy
 
 # Parse Input
 f = open("Day 3/Input.txt", "r")
